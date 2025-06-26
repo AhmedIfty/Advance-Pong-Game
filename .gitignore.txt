@@ -1,0 +1,17 @@
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE files
+.idea/
+*.iml
+*.log
+
+# macOS
+.DS_Store
