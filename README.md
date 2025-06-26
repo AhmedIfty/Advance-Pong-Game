@@ -2,7 +2,7 @@
 
 A Two-player Pong game created as BRAC university CSE423:Computer Graphics group project using Python and PyOpenGL. Includes unique powerups, keyboard controls and difficulty settings.
 
-![Gameplay Demo](demo.gif)
+![Gameplay Demo](Demo.gif)
 
 ---
 
